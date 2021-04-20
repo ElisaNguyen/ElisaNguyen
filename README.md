@@ -1,8 +1,10 @@
 ### Hi there 👋 & nice to meet you!
 
-I'm Elisa, currently a second-year master student in Interaction Technology at the University of Twente. I am passionate about learning, cultural exchange and the intersection between technology and society.
+I'm Elisa, currently a second-year master student in Interaction Technology at the University of Twente. I am passionate about learning, cultural exchange and the intersection between technology and society. 
 
 Recently, I have started my thesis research about explainability methods for spiking neural networks. 
+
+Feel free to check out my pinned repositories, which are mainly university projects in the field of machine learning and NLP. 
 
 <!--
 **ElisaNguyen/ElisaNguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
