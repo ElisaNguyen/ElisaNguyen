@@ -2,9 +2,9 @@
 
 I'm Elisa, currently a Master student in Interaction Technology at the University of Twente. I am passionate about learning, cultural exchange and the intersection between technology and society. 
 
-Recently, I have started my thesis research about explainability methods for spiking neural networks. 
+My Master research about explainability in spiking neural networks is in my pinned repository tsa-explanations. 
 
-Feel free to check out my pinned repositories, which are mainly university projects in the field of machine learning and NLP. 
+Feel free to check out my other pinned repositories as well, which are mainly university projects in the field of machine learning and NLP. 
 
 <!--
 **ElisaNguyen/ElisaNguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
