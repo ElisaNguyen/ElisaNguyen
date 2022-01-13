@@ -1,6 +1,6 @@
 ### Hi there 👋 & nice to meet you!
 
-I'm Elisa, currently a Master student in Interaction Technology at the University of Twente. I am passionate about learning, cultural exchange and the intersection between technology and society. 
+I'm Elisa, a recent graduate from the Interaction Technology program at the University of Twente. 
 
 My Master research about explainability in spiking neural networks is in my pinned repository tsa-explanations. 
 
