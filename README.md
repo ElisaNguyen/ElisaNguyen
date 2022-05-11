@@ -1,7 +1,8 @@
 ### Hi there 👋 & nice to meet you!
 
-I'm Elisa, a recent graduate from the Interaction Technology program at the University of Twente. 
+I'm Elisa, a first-year PhD student in the Scalable Trustworthy AI group at the University of Tübingen. 
 
+Recently, I graduated from the Interaction Technology program at the University of Twente. 
 My Master research about explainability in spiking neural networks is in my pinned repository tsa-explanations. 
 
 Feel free to check out my other pinned repositories as well, which are mainly university projects in the field of machine learning and NLP. 
