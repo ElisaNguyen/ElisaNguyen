@@ -1,11 +1,10 @@
+<!--
 ### Hi there 👋 & nice to meet you!
 
 I'm Elisa, a first-year PhD student in the Scalable Trustworthy AI group at the University of Tübingen. 
 
 Recently, I graduated from the Interaction Technology program at the University of Twente. 
 My Master research about explainability in spiking neural networks is in my pinned repository <i>tsa-explanations</i>. 
-
-<!--
 **ElisaNguyen/ElisaNguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
