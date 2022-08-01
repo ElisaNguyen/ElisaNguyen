@@ -1,7 +1,8 @@
-<!--
-### Hi there 👋 & nice to meet you!
+Hi there 👋 & nice to meet you!
 
-I'm Elisa, a first-year PhD student in the Scalable Trustworthy AI group at the University of Tübingen. 
+I'm Elisa, a first-year PhD student in the [Scalable Trustworthy AI group](scalabletrustworthyai.github.io) at the University of Tübingen. I'm interested in researching how technology can benefit humans and society, in particular the field of responsible and trustworthy AI.
+
+<!-- ### 
 
 Recently, I graduated from the Interaction Technology program at the University of Twente. 
 My Master research about explainability in spiking neural networks is in my pinned repository <i>tsa-explanations</i>. 
