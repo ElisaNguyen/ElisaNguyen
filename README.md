@@ -1,6 +1,6 @@
 Hi there 👋 & nice to meet you!
 
-I'm Elisa, a first-year PhD student in the [Scalable Trustworthy AI group](https://scalabletrustworthyai.github.io) at the University of Tübingen. I'm interested in researching how technology can benefit humans and society, in particular the field of responsible and trustworthy AI.
+I'm Elisa, a PhD student in the [Scalable Trustworthy AI group](https://scalabletrustworthyai.github.io) at the University of Tübingen. I'm interested in researching how technology can benefit humans and society, in particular the field of responsible and trustworthy AI.
 
 <!-- ### 
 
